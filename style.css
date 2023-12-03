@@ -11,7 +11,16 @@ th{
 hr{
     border-color: black;
 }
-div{
+div > p{
     color: blue;
     background-color: rgb(92, 171, 31);
+}
+div p{
+    color: azure;
+    background-color: blueviolet;
+}
+
+* {
+  padding-left:7px;
+  margin:0px;
 }
