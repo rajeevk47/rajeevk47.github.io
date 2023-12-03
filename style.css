@@ -3,10 +3,15 @@ body{
 }
 td{
     border: 2px solid black;
+    background: red;
 }
 th{
     border: 2px solid black;
 }
 hr{
     border-color: black;
+}
+div{
+    color: blue;
+    background-color: rgb(92, 171, 31);
 }
